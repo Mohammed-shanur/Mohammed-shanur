@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-shanur
-- 👀 I’m interested in development
-- 🌱 I’m currently learning web developmen
+- 👀 I’m an undergrad student at Nizam College
+- 🌱 I’m currently learning web development
 - 📫 How to reach me email:shanurpasha1@gmail.com
 Phone:+91 7569072337
 
